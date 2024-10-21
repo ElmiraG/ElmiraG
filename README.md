@@ -12,7 +12,7 @@
 - Машинное обучение: scikit-learn, TensorFlow, Keras NLP, PyTorch, CatBoost, LightGBM
 - Обработка больших данных: PySpark, FAISS
 - Прогнозирование: Prophet
-- SQL 
+- Базы данных: PostgreSQL
 
 ## Образование
 - Курс Data Science в Яндекс Практикуме
