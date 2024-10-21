@@ -1,16 +1,27 @@
-## Hi there 👋
+# Эльмира | Data Scientist
 
-<!--
-**ElmiraG/ElmiraG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+С 2022 года изучаю data science. Прошла курс DS в Яндекс Практикуме. 
 
-Here are some ideas to get you started:
+## Проекты
+- **[Учебное портфолио: practicum_projects](ссылка_на_репозиторий)**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Навыки
+- Программирование: Python
+- Анализ данных: pandas, NumPy, SciPy, StatsModels
+- Визуализация: Matplotlib, Seaborn, PIL
+- Машинное обучение: scikit-learn, TensorFlow, Keras NLP, PyTorch, CatBoost, LightGBM
+- Обработка больших данных: PySpark, FAISS
+- Прогнозирование: Prophet
+- SQL 
+
+## Образование
+- Курс Data Science в Яндекс Практикуме
+- Курса математики для анализа данных в Яндекс Практикуме
+- Курс "Искусственный интеллект и основы аналитики данных", АНО ВО "Университет Иннополис"
+
+## Контакты
+Почта: gar.elm@yandex.ru  
+[VK](https://vk.com/elmira_miru)  
+[Telegram](https://t.me/miramio)  
+
+В свободное время читаю статьи на **Towards Data Science** на Medium, изучаю хендбуки на **Яндекс Образования** и прохожу курс по SQL на **Stepik**.
