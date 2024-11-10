@@ -1,6 +1,6 @@
 # Эльмира | Data Scientist
 
-Изучаю data science. Прошла курс DS в Яндекс Практикуме. 
+Изучаю Data Science. Прошла курс DS в Яндекс Практикуме. 
 
 ## Проекты
 - **[Учебное портфолио: practicum_projects](https://github.com/ElmiraG/practicum_projects)**  
