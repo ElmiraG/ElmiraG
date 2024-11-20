@@ -5,6 +5,7 @@
 ## Проекты
 - **[Учебное портфолио: practicum_projects](https://github.com/ElmiraG/practicum_projects)**  
 - **[Мини-проекты по аналитике](https://github.com/ElmiraG/projects_on_analytics)**
+- **[Выполненные тестовые задания](https://github.com/ElmiraG/test_tasks/tree/main)**
 ## Навыки
 - Программирование: Python
 - Анализ данных: pandas, NumPy, SciPy, StatsModels
