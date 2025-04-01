@@ -25,4 +25,4 @@
 [VK](https://vk.com/elmira_miru)  
 [Telegram](https://t.me/miramio)  
 
-В свободное время изучаю хендбуки на **Яндекс Образования** и прохожу курс по SQL на **Stepik**. Также слежу за блогами, такими как Towards Data Science на Medium.
+В свободное время изучаю хендбуки на **Яндекс Образования** и прохожу курс по SQL на **Stepik**. Также слежу за Towards Data Science на Medium.
